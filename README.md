@@ -9,7 +9,7 @@ The data itself is stored in a sql file that is populated on startup.
 I built this app to help testers manage their test-data as this is a common problem in our scope. 
 This is part 1 of 3 that will show how use a central test-data factory to test in code system tests as well as functional tests later on.
 
-##How to use this appliation.
+## How to use this appliation.
 
 Open it up and hit the play button or just run from commandline! 
 
