@@ -11,6 +11,8 @@ This is part 1 of 3 that will show how use a central test-data factory to test i
 
 ##How to use this appliation.
 
+Open it up and hit the play button or just run from commandline! 
+
 ### Access the Db
 Upon startup your database is setup and preloded!
 H2 prvides a web form to access the database visually, simply navigate to #http://localhost:8080/h2-console to access the form,
